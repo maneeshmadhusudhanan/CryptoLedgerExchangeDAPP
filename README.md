@@ -3,13 +3,14 @@ Decentralized Crypto Trading Platform | Secure | Transparent | Scalable
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F7A41D&center=true&width=600&lines=Blockchain+Developer+%7C+Web3+Innovator;Ethereum+%7C+Solidity+%7C+Next.js+%7C+Hardhat;Building+Decentralized+Applications;Smart+Contracts+%7C+DeFi+%7C+NFTs+%7C+Crypto;Welcome+to+CryptoLedger+ExchangeDAPP!🚀" alt="Typing SVG"> </p>
 🌟 About CryptoLedger ExchangeDAPP
+
+
 🚀 CryptoLedger ExchangeDAPP is a decentralized crypto trading platform built on Ethereum blockchain that enhances transparency, security, and user control.
 
-🔹 Trade tokens & exchange crypto for fiat seamlessly
+🔹 Trade tokens & exchange crypto token  
 🔹 Track transaction history on the blockchain
 🔹 Stake tokens & earn rewards
 🔹 Referral rewards & multi-token support
-🔹 Real-time Binance API price tracking & TradingView charts
 🔹 Secure authentication using JWT & MetaMask
 
 🔗 Live Demo & Smart Contract
@@ -74,30 +75,7 @@ sh
 Copy
 Edit
 npm run dev
-📈 GitHub Stats & Contributions
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ManeeshKBA&show_icons=true&theme=tokyonight" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManeeshKBA&theme=tokyonight" height="165" /> </p>
-🐍 Contribution Graph Animation
-<p align="center"> <img src="https://github.com/ManeeshKBA/ManeeshKBA/blob/output/github-contribution-grid-snake.svg" /> </p>
-📜 Smart Contract Overview
-solidity
-Copy
-Edit
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
 
-contract CryptoLedgerExchange {
-    mapping(address => uint256) public balances;
-    
-    event TokensSwapped(address indexed user, uint256 amount, string token);
-
-    function swapTokens(uint256 amount, string memory token) public {
-        require(amount > 0, "Invalid amount");
-        balances[msg.sender] += amount;
-        emit TokensSwapped(msg.sender, amount, token);
-    }
-}
-🤝 Contributing
-Contributions are welcome! Follow these steps:
 
 Fork the repo
 Create a branch: git checkout -b feature-branch
