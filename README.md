@@ -42,11 +42,11 @@
 
 ---
 
-### 3️⃣ Backend (Node.js + Express.js + JWT) 💻
+### 3️⃣ Backend (JWT) 💻
 🛡️ **Secure Authentication** – Login via Google & MetaMask!  
 🔗 **Referral Tracking** – Distribute rewards accurately!  
 📜 **Transaction Logs** – Blockchain-backed history!  
-🔑 **Admin & User Control** – Developers manage access!  
+ 
 
 ---
 
@@ -64,8 +64,7 @@
 🔐 MetaMask & WalletConnect (Secure authentication)  
 
 ### 🔷 Backend
-🚀 Node.js & Express.js (API & Authentication)  
-🗃️ MongoDB (User Data & Transactions)  
+🚀 (API & Authentication)    
 🔑 JWT Authentication (Secure user sessions)  
 
 ---
