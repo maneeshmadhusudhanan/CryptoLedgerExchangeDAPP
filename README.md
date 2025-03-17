@@ -1,6 +1,6 @@
 # 🚀 CryptoLedger ExchangeDAPP 1.0 | CET Token
 
-## Decentralized Crypto Exchange with CET Token Rewards
+## Decentralized Crypto Exchange with CLX Token Rewards
 
 ---
 
@@ -24,19 +24,19 @@
 ✔ CLX Token [CRYPTO LEDGER EXCHANGE TOKEN] (ERC-20) – Trade, earn, & transact!  
 ✔ Exchange Bonus System – Customizable trade bonuses!  
 ✔ 2% Developer Fee – Earn passive income!  
-✔ Referral System – Invite & earn CET tokens!  
+✔ Referral System – Invite & earn CLX tokens!  
 ✔ Buyback Mechanism – Developer maintains token stability!  
 ✔ Secure Transactions – Immutable & blockchain recorded!  
 
 ---
 
 ### 2️⃣ Frontend (React.js + Vite + Tailwind CSS) 🎨
-💠 **User Dashboard** – Real-time CET balance, history & referrals!  
+💠 **User Dashboard** – Real-time CLX balance, history & referrals!  
 💠 **MetaMask & WalletConnect** – Secure blockchain login!  
-💠 **Exchange UI** – Instant CET swapping!  
+💠 **Exchange UI** – Instant CLX swapping!  
 💠 **Portfolio Management** – Track all crypto in one place!  
 💠 **Leaderboard & Challenges** – Gamified trading experience!  
-💠 **Daily Check-in Rewards** – Earn CET every day!  
+💠 **Daily Check-in Rewards** – Earn CLX every day!  
 
 🚀 **Ultra-fast UI built with Vite + Tailwind CSS!**
 
@@ -122,7 +122,7 @@ MIT License – Open-source, free to modify & distribute.
 
 ✅ **Multi-token Support** – Trade more ERC-20 tokens!  
 ✅ **Mobile App Version** – React Native dApp!  
-✅ **Cross-chain Trading** – Ethereum ↔ Polygon!  
+  
 
 🌟 **Join the Crypto Revolution!** 🌟  
 🚀 **CryptoLedger ExchangeDAPP 1.0 – Trade, Earn, & Grow!** 🚀
