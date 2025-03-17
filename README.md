@@ -13,8 +13,7 @@
 |-----------|------------|
 | 📌 Exchange Bonus System | Deployer sets custom bonuses! |
 | 💰 2% Developer Fee | Earn on every swap! |
-| 🎁 Referral & Rewards | Invite friends, win CET! |
-| 👨‍💼 Admin & User Management | Full control over access! |
+| 🎁 Referral & Rewards | Invite friends, win CLX! |
 | 🔒 Secure & Transparent | Blockchain-based transactions! |
 
 ---
@@ -22,7 +21,7 @@
 ## 🚀 Key Features & Functionalities
 
 ### 1️⃣ Blockchain & Smart Contracts 💎
-✔ CET Token [CRYPTO EXCHANGE TOKEN] (ERC-20) – Trade, earn, & transact!  
+✔ CLX Token [CRYPTO LEDGER EXCHANGE TOKEN] (ERC-20) – Trade, earn, & transact!  
 ✔ Exchange Bonus System – Customizable trade bonuses!  
 ✔ 2% Developer Fee – Earn passive income!  
 ✔ Referral System – Invite & earn CET tokens!  
